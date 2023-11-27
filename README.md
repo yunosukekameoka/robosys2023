@@ -5,7 +5,7 @@
 
 標準入力から読み込んだ数字を足す
 
-##ダウンロード
+## ダウンロード
 * ターミナルに以下を入力
 ```
 $ git clone https://github.com/yunosukekameoka/robosys2023.git
