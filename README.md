@@ -5,6 +5,13 @@
 
 標準入力から読み込んだ数字を足す
 
+##ダウンロード
+ターミナルに以下を入力
+```
+	$ git clone https://github.com/yunosukekameoka/robosys2023.git
+	$ cd robosys2023
+	$ chmod +x plus
+```
 
 ## 必要なソフトウェア
 * Python
