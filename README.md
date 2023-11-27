@@ -3,7 +3,7 @@
 
 [![test](https://github.com/yunosukekameoka/robosys2023/actions/workflows/test.yml/badge.svg)](https://github.com/yunosukekameoka/robosys2023/actions/workflows/test.yml)
 
-標準入力から読み込んだ数字を足す
+標準入力から読み込んだ数字の小数点以下を切り捨て、足す
 
 ## ダウンロード
 * ターミナルに以下を入力
@@ -12,6 +12,12 @@ $ git clone https://github.com/yunosukekameoka/robosys2023.git
 $ cd robosys2023
 $ chmod +x plus
 ```
+
+## 実行例
+```
+$ seq 5 | ./plus
+15
+``` 
 
 ## 必要なソフトウェア
 * Python
