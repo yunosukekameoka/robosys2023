@@ -1,5 +1,5 @@
 # robosys2023
-2023年4sのロボットシステム学
+このリポジトリは2023年4sのロボットシステム学の授業の課題で作成したものです。
 
 [![test](https://github.com/yunosukekameoka/robosys2023/actions/workflows/test.yml/badge.svg)](https://github.com/yunosukekameoka/robosys2023/actions/workflows/test.yml)
 
@@ -26,7 +26,7 @@ $ ./plus
 ```
 9
 ```
-ここで、^DはCtrl+Dを意味します。この例では、1、5、および3を入力しています。プログラムはこれらの数値を読み取り、合計を計算して表示します。実際の使用に応じて、数値の入力方法を変更できます。
+ここで、^DはCtrl+Dで標準入力の終了を意味します。この例では、1、5、および3を入力しています。プログラムはこれらの数値を読み取り、合計を計算して表示します。実際の使用に応じて、数値の入力方法を変更できます。
 
 * 入力2
 ```
