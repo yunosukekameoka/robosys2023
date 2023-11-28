@@ -3,7 +3,9 @@
 
 [![test](https://github.com/yunosukekameoka/robosys2023/actions/workflows/test.yml/badge.svg)](https://github.com/yunosukekameoka/robosys2023/actions/workflows/test.yml)
 
-標準入力から読み込んだ数字を足す
+## 機能
+
+標準入力から読み込んだ数字を足すことができます。
 
 ## ダウンロード
 * ターミナルに以下を入力
