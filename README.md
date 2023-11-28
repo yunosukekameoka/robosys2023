@@ -8,11 +8,9 @@
 標準入力から読み込んだ数字の和を求めることができます。
 
 ## インストール
-* Ubuntuのターミナルに以下を入力して、このリポジトリをクローンしてplusに実行する権限を与えてください。
+* Ubuntuのターミナルに以下を入力してください。
 ```
 $ git clone https://github.com/yunosukekameoka/robosys2023.git
-$ cd robosys2023
-$ chmod +x plus
 ```
 
 ## 実行例
