@@ -3,7 +3,7 @@
 
 [![test](https://github.com/yunosukekameoka/robosys2023/actions/workflows/test.yml/badge.svg)](https://github.com/yunosukekameoka/robosys2023/actions/workflows/test.yml)
 
-標準入力から読み込んだ数字の小数点以下を切り捨て、足す
+標準入力から読み込んだ数字を足す
 
 ## ダウンロード
 * ターミナルに以下を入力
