@@ -5,10 +5,10 @@
 
 ## 機能
 
-標準入力から読み込んだ数字を足すことができます。
+標準入力から読み込んだ数字の和を求めることができます。
 
-## ダウンロード
-* ターミナルに以下を入力
+## インストール
+* Ubuntuのターミナルに以下を入力して、このリポジトリをクローンしてplusに実行する権限を与えてください。
 ```
 $ git clone https://github.com/yunosukekameoka/robosys2023.git
 $ cd robosys2023
@@ -52,7 +52,7 @@ $ seq 5 | ./plus
 
   * このソフトウェアパッケージは，3条項BSDライセンスの下，再頒布および使用が許可されます．
   * このパッケージのコードは，下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを，本人の許可を得て自身の著作としたものです．
-      * [ryuichiueda/my_slides robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
+      * [ryuichiueda/my_slides robosys_2022/lesson4.html#/20](https://ryuichiueda.github.io/my_slides/robosys_2022/lesson4.html#/20)
  
   * © 2023 Yunosuke Kameoka
 
